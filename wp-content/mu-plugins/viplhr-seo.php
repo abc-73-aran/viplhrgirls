@@ -74,6 +74,9 @@ add_action( 'wp_head', function () {
 	echo '<link rel="preconnect" href="https://fonts.googleapis.com" />' . "\n";
 	echo '<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />' . "\n";
 	echo '<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700;900&family=Inter:wght@300;400;600&display=swap" />' . "\n";
+	if ( is_front_page() ) {
+		echo '<link rel="preload" as="image" href="https://viplhrgirls.com/wp-content/themes/viplhr-luxury/images/luxury_hero.webp" />' . "\n";
+	}
 	echo "<!-- /VIPLHR SEO -->\n";
 }, 2 );
 

@@ -171,7 +171,7 @@ add_action('wp_head', function() {
             text-align: center; 
             padding: 0 20px;
             border-bottom: 1px solid rgba(255,255,255,0.05);
-            background: linear-gradient(to bottom, rgba(5,5,5,0.4), rgba(5,5,5,1)), url('https://viplhrgirls.com/wp-content/themes/viplhr-luxury/images/luxury_hero.jpg') top center/cover no-repeat;
+            background: linear-gradient(to bottom, rgba(5,5,5,0.4), rgba(5,5,5,1)), url('https://viplhrgirls.com/wp-content/themes/viplhr-luxury/images/luxury_hero.webp') top center/cover no-repeat;
             position: relative;
         }
         
@@ -384,7 +384,7 @@ add_action('wp_body_open', function() {
                     <a href="tel:+923296905800" class="luxury-btn" style="padding: 14px 30px !important;">Book Your Escort Now</a>
                 </div>
                 <div class="section-image">
-                    <img src="https://viplhrgirls.com/wp-content/uploads/2024/11/qGMb8GQBTPql7sTILncuLg.jpeg" alt="Premium Escorts in Lahore" loading="lazy" />
+                    <img src="https://viplhrgirls.com/wp-content/uploads/2024/11/qGMb8GQBTPql7sTILncuLg.webp" alt="Premium Escorts in Lahore" loading="lazy" />
                 </div>
             </div>
 
@@ -399,7 +399,7 @@ add_action('wp_body_open', function() {
             <!-- Section 2: Image Left, Text Right (BUT TEXT IS LEFT ALIGNED internally) -->
             <div class="premium-section img-left animate-fade-up delay-1" style="grid-template-columns: 1fr 1fr;">
                 <div class="section-image">
-                    <img src="https://viplhrgirls.com/wp-content/uploads/2024/11/P36xu2ZDSsS5nc2onlxFMA.jpeg" alt="Russian Escorts in Lahore" loading="lazy" />
+                    <img src="https://viplhrgirls.com/wp-content/uploads/2024/11/P36xu2ZDSsS5nc2onlxFMA.webp" alt="Russian Escorts in Lahore" loading="lazy" />
                 </div>
                 <div class="section-text">
                     <h2>Call Girls in Lahore – Exclusive Companionship</h2>
@@ -416,7 +416,7 @@ add_action('wp_body_open', function() {
             </div>
 
             <!-- PERIODIC BANNER 2 -->
-            <div class="periodic-banner animate-fade-up" style="background: linear-gradient(rgba(5,5,5,0.9), rgba(5,5,5,0.9)), url('https://viplhrgirls.com/wp-content/themes/viplhr-luxury/images/luxury_hero.jpg') center/cover;">
+            <div class="periodic-banner animate-fade-up" style="background: linear-gradient(rgba(5,5,5,0.9), rgba(5,5,5,0.9)), url('https://viplhrgirls.com/wp-content/themes/viplhr-luxury/images/luxury_hero.webp') center/cover;">
                 <h3 style="color: var(--lux-gold) !important;">Book Your Exotic Companion Today</h3>
                 <p style="color: #FFF;">Book the most exquisite Russian and local call girls in Lahore instantly.</p>
                 <div class="phone-highlight" style="text-shadow: 0 5px 15px rgba(0,0,0,1);">+92 329 690 5800</div>
@@ -431,14 +431,14 @@ add_action('wp_body_open', function() {
                     <p>Their beauty, professionalism, and ability to engage in meaningful conversation make them the perfect choice for any occasion. Our goal is to ensure your satisfaction, comfort, and a memorable experience every time.</p>
                 </div>
                 <div class="section-image">
-                    <img src="https://viplhrgirls.com/wp-content/uploads/2024/11/Leonardo_Kino_XL_A_Young_Pakistani_model_from_Islamabad_with_a_3.jpg" alt="Gulberg Lahore Call Girl" loading="lazy" />
+                    <img src="https://viplhrgirls.com/wp-content/uploads/2024/11/Leonardo_Kino_XL_A_Young_Pakistani_model_from_Islamabad_with_a_3.webp" alt="Gulberg Lahore Call Girl" loading="lazy" />
                 </div>
             </div>
             
              <!-- Section 4: Image Left, Text Right -->
             <div class="premium-section img-left animate-fade-up delay-1">
                 <div class="section-image">
-                    <img src="https://viplhrgirls.com/wp-content/uploads/2024/11/nu0PXLvrSqWMEt1-edRJuA.jpeg" alt="Escort Gardens Johar Town Lahore" loading="lazy" />
+                    <img src="https://viplhrgirls.com/wp-content/uploads/2024/11/nu0PXLvrSqWMEt1-edRJuA.webp" alt="Escort Gardens Johar Town Lahore" loading="lazy" />
                 </div>
                 <div class="section-text">
                     <h2>Premium Companions in Johar Town Lahore</h2>
@@ -463,14 +463,14 @@ add_action('wp_body_open', function() {
                     <p>With a focus on professionalism, discretion, and client satisfaction, we ensure that every encounter with our Iqbal Town call girls is special and memorable.</p>
                 </div>
                 <div class="section-image">
-                    <img src="https://viplhrgirls.com/wp-content/uploads/2024/11/7x9_WfdIQ9yaxy08Rse9rg-1.jpeg" alt="Call Girl in Iqbal Town Lahore" loading="lazy" />
+                    <img src="https://viplhrgirls.com/wp-content/uploads/2024/11/7x9_WfdIQ9yaxy08Rse9rg-1.webp" alt="Call Girl in Iqbal Town Lahore" loading="lazy" />
                 </div>
             </div>
 
             <!-- Section 6: Image Left, Text Right -->
             <div class="premium-section img-left animate-fade-up delay-1">
                 <div class="section-image">
-                    <img src="https://viplhrgirls.com/wp-content/uploads/2024/11/ff3VGtkaTbmGep_0k3_Rcw.jpeg" alt="Call Girl Numbers in Lahore" loading="lazy" />
+                    <img src="https://viplhrgirls.com/wp-content/uploads/2024/11/ff3VGtkaTbmGep_0k3_Rcw.webp" alt="Call Girl Numbers in Lahore" loading="lazy" />
                 </div>
                 <div class="section-text">
                     <h2>Call Girl Numbers in Lahore – Easy Access</h2>
@@ -494,7 +494,7 @@ add_action('wp_body_open', function() {
                     <p>Our call girls for rent in Lahore are available for different time frames, ensuring flexibility based on your schedule. Rest assured that each experience is designed to provide comfort, elegance, and a high level of satisfaction.</p>
                 </div>
                 <div class="section-image">
-                    <img src="https://viplhrgirls.com/wp-content/uploads/2024/11/ng-qwPWGRGCKkokrR0yR0Q.jpg" alt="Call Girl for Rent in Lahore" loading="lazy" />
+                    <img src="https://viplhrgirls.com/wp-content/uploads/2024/11/ng-qwPWGRGCKkokrR0yR0Q.webp" alt="Call Girl for Rent in Lahore" loading="lazy" />
                 </div>
             </div>
             
@@ -508,7 +508,7 @@ add_action('wp_body_open', function() {
             <!-- Section 8: Image Left, Text Right -->
             <div class="premium-section img-left animate-fade-up delay-1">
                 <div class="section-image">
-                    <img src="https://viplhrgirls.com/wp-content/uploads/2024/11/vwK9BDZJTa-fvqbo-Y1saA.jpg" alt="VIPLHRGIRLS" loading="lazy" />
+                    <img src="https://viplhrgirls.com/wp-content/uploads/2024/11/vwK9BDZJTa-fvqbo-Y1saA.webp" alt="VIPLHRGIRLS" loading="lazy" />
                 </div>
                 <div class="section-text">
                     <h2>Final Thoughts – Book Your Perfect Companion Today</h2>
