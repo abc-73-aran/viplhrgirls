@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+Disallow: /wp-login.php
+Disallow: /xmlrpc.php
+Disallow: /author/
+Disallow: /?s=
+Disallow: /search/
+
+Sitemap: https://viplhrgirls.com/sitemap.xml
